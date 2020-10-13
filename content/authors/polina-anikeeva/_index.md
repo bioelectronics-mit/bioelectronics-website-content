@@ -47,7 +47,7 @@ social:
   link: https://scholar.google.com/citations?user=CGOog64AAAAJ&hl=en
 - icon: cv
   icon_pack: ai
-  link: files/polina-anikeeva-cv.pdf
+  link: media/cvs/polina-anikeeva-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

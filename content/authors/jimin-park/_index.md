@@ -46,7 +46,7 @@ social:
   link: https://scholar.google.com/citations?user=0DiI3O4AAAAJ&hl=en&oi=ao
 - icon: cv
   icon_pack: ai
-  link: files/jimin-park-cv.pdf
+  link: media/cvs/jimin-park-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
