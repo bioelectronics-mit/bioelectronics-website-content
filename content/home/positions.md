@@ -30,7 +30,7 @@ Graduate students admitted to [MIT Materials Science](https://dmse.mit.edu/gradu
 Students seeking admission to MIT please reach out to the appropriate departments with the links above and apply to MIT. We’ll be thrilled to talk to you following your formal admission. Individual faculty members at MIT do not make admission decisions.
 
 ### Undergraduate Students
-MIT and Wellesley undergraduates should check out [MIT Undergraduate Research Opportunities (UROP) website](https://urop.mit.edu/) for the available positions or reach out to Bioelectronics graduate students and postdocs.
+MIT and Wellesley undergraduates should check the [MIT Undergraduate Research Opportunities (UROP) website](https://urop.mit.edu/) for the available positions or reach out to Bioelectronics graduate students and postdocs.
 
 Non-MIT/Wellesley undergraduates – we encourage you to apply into one of the excellent summer programs available at MIT (e.g. [Center for Materials Science and Engineering (CMSE) REU](https://mitmrsec.mit.edu/), [MIT Summer Research Program (MSRP)](https://oge.mit.edu/graddiversity/msrp/), [Amgen Scholars](https://amgenscholars.com/)). Following your admission, you can indicate us as a potential summer home.
 
