@@ -9,7 +9,7 @@ authors: francisco-garcia
 superuser: false
 
 # Role/position
-role:
+role: PhD student at MIT BCS
 
 # Organizations/Affiliations
 organizations: []

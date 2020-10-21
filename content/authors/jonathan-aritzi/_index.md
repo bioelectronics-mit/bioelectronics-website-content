@@ -9,7 +9,7 @@ authors: jonathan-aritzi
 superuser: false
 
 # Role/position
-role:
+role: PhD student at Harvard/MIT HST program
 
 # Organizations/Affiliations
 organizations: []

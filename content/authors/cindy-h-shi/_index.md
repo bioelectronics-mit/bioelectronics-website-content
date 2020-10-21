@@ -9,7 +9,7 @@ authors: cindy-h-shi
 superuser: false
 
 # Role/position
-role:
+role: PhD student at Stanford MSE
 
 # Organizations/Affiliations
 organizations: []

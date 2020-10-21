@@ -9,7 +9,7 @@ authors: michael-g-christiansen
 superuser: false
 
 # Role/position
-role:
+role: Postdoc at ETH Zurich (w/ Simone Schuerle)
 
 # Organizations/Affiliations
 organizations: []

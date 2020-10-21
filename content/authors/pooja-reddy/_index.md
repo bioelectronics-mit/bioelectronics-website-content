@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jennifer Selvidge
+title: Pooja Reddy
 
 # Username (this should match the folder name)
-authors: jennifer-selvidge
+authors: pooja-reddy
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student at UCSB MSE
+role: PhD student at Stanford MSE
 
 # Organizations/Affiliations
 organizations: []
@@ -36,5 +36,4 @@ user_groups:
 - Alumni
 ---
 
-- Undergraduate Student: 2015   
-Thesis: **Connectorization methodologies for neural probe applications**
+- Undergraduate Student: 2018-2019  

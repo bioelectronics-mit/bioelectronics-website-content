@@ -9,7 +9,7 @@ authors: pohan-chiang
 superuser: false
 
 # Role/position
-role: Assistant Professor at Chiao Tung University
+role: Assistant Professor at National Chiao Tung University
 
 # Organizations/Affiliations
 organizations: []

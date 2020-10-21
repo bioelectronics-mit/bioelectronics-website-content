@@ -9,7 +9,7 @@ authors: ritchie-chen
 superuser: false
 
 # Role/position
-role:
+role: Postodoc at Stanford (w/ Karl Deisseroth)
 
 # Organizations/Affiliations
 organizations: []

@@ -9,7 +9,7 @@ authors: colleen-n-loynachan
 superuser: false
 
 # Role/position
-role:
+role: Postdoc at EPFL (w/ Francesco Stellaci)
 
 # Organizations/Affiliations
 organizations: []

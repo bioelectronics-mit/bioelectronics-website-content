@@ -9,7 +9,7 @@ authors: chi-lu
 superuser: false
 
 # Role/position
-role:
+role: Engineer at Applied Materials
 
 # Organizations/Affiliations
 organizations: []
