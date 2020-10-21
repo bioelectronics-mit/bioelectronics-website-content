@@ -9,7 +9,7 @@ authors: alexander-w-senko
 superuser: false
 
 # Role/position
-role:
+role: Data scientist at Livongo
 
 # Organizations/Affiliations
 organizations: []
