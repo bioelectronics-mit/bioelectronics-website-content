@@ -16,7 +16,7 @@ role: Assistant Professor at University of British Columbia/ICORD
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: Dena is passionate about traumatic nerve injuries particularly the spinal cord.
+bio: 
 
 interests: []
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Senior Scientist on Advanced Materials, Impossible Foods
 
 # Organizations/Affiliations
 organizations: []
