@@ -18,9 +18,6 @@ subtitle = ""
 +++
 We invite all researchers, and especially those from backgrounds underrepresented in academia, to apply for the positions listed below. Underrepresented groups include, but are not limited to: African Americans, Latinos, Native Americans, Pacific Islanders, Filipinos, those with disabilities or from disadvantaged backgrounds, and those underrepresented on the basis of gender identity or expression or sexual orientation.
 
-### Lab Manager
-We are looking to hire a Lab Manager with a BS or MS in Biology, Neuroscience, or related fields. Position is available immediately. Both full-time and part-time appointments are possible. Please contact Polina directly.
-
 ### Postdoctoral Rearchers
 We are looking to hire recent PhD graduates (or graduating students) with training in Neuroscience, Physiology, Molecular Biology, Immunology, or Gastroenterology interested in postdoctoral positions in our group. Please contact Polina directly, attaching your CV, most important paper, and a few sentences on what you are looking to accompish and learn during your postdoctoral training.
 
