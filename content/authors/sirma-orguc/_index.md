@@ -37,5 +37,5 @@ user_groups:
 - Alumni
 ---
 
-- Graduate Student: 2020
+- Graduate Student: 2020  
 Thesis: *Programmable Interfaces for Biomedical and Neuroscience Applications*
