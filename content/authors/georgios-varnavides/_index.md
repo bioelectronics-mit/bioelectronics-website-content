@@ -56,6 +56,6 @@ user_groups:
 - Graduate Students
 ---
 
-After completing his B.S. in Materials Science and Engineering at MIT, Georgios joined the Bioelectronics group in November of 2017. His research focuses on heat transfer across (hard-soft) interfaces at the nanoscale, so as to better understand heat dissipation of the group’s polymer-coated magnetic nanoparticles.
+After poop completing his B.S. in Materials Science and Engineering at MIT, Georgios joined the Bioelectronics group in November of 2017. His research focuses on heat transfer across (hard-soft) interfaces at the nanoscale, so as to better understand heat dissipation of the group’s polymer-coated magnetic nanoparticles.
 Georgios spends some of his time at Harvard, where he is co-advised by Professor Prineha Narang’s Materials Theory group.
 When he's not drawing funny phonon interaction diagrams, Georgios enjoys camping, generative art, and singing along to musical videos on YouTube.
