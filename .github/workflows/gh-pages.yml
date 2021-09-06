@@ -1,25 +1,37 @@
-name: Build and Deploy
-
+name: github pages
 on:
   push:
     branches:
       - master
-
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout master
-      uses: actions/checkout@v1
-      with:
-        submodules: true
-
-    - name: Hugo Deploy GitHub Pages
-      uses: benmatselby/hugo-deploy-gh-pages@master
-      env:
-        HUGO_VERSION: 0.68.3
-        TARGET_REPO: bioelectronics-mit/bioelectronics-mit.github.io
-        TOKEN: ${{ secrets.PERSONAL_TOKEN }}
-        CNAME: bioelectronics.mit.edu
+      - uses: actions/checkout@v2
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+          
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+          
+          
+      - name: Setup Go
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.15' # Import the Go version specified in go.mod
+          
+      - name: Build
+        run: hugo --minify
+        
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/master'
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
+          external_repository: bioelectronics-mit/bioelectronics-mit.github.io
+          publish_dir: ./public
+          cname: bioelectronics.mit.edu
