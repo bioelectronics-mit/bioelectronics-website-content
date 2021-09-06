@@ -34,4 +34,5 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: bioelectronics-mit/bioelectronics-mit.github.io
           publish_dir: ./public
+          publish_branch: master
           cname: bioelectronics.mit.edu
