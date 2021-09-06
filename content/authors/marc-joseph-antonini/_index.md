@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -25,6 +25,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Medical Engineering and Medical Physics
+    institution: Massachusetts Institute of Technology
+    year: 2021
   - course: M.Sc in Neuroscience & Neurobiology
     institution: Universite Paris-Sud
     year: 2015
@@ -56,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Postdoctoral Associates & Fellows
 ---
 
 MJ joined the Bioelectronics group in July 2016, as a Ph.D student in medical engineering and medical physics at the Harvard/MIT HST department. After completing a mechanical and industrial engineering diploma from Arts & Métiers ParisTech, he pursued a M.Sc in biomedical engineering at the Imperial College London, where he developed a low cost 3d Printed prosthetic hand. Before joining the lab, MJ spent a year in the Graybiel lab learning neurosciences with Dr. Sebastien Delcasso while studying neuronal dysfunction in a new animal model of Huntington’s Disease. Here in the Bioelectronics group, MJ is currently working on the improvement of polymer fibers for neural recording and stimulation.
