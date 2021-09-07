@@ -43,6 +43,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/indie-garwood-0814b910a/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=bcbr6S0AAAAJ&hl=en
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
