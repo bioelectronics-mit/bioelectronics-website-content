@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Associate Professor in Materials Science and Engineering </br> Associate Professor in Brain and Cognitive Sciences </br> Associate Director, Research Laboratory of Electronics
+role: Professor in Materials Science and Engineering </br> Professor in Brain and Cognitive Sciences </br> Associate Director, Research Laboratory of Electronics
 
 # Organizations/Affiliations
 organizations:
