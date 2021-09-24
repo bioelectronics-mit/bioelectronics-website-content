@@ -1,15 +1,15 @@
 ---
-title: "Imaging phonon-mediated hydrodynamic flow in WTe2 with cryogenic quantum magnetometry"
-date: 2020-09-09
-publishDate: 2020-09-20
+title: "Imaging phonon-mediated hydrodynamic flow in WTe2"
+date: 2021-09-16
+publishDate: 2021-09-16
 authors: ["Uri Vool", "Assaf Hamo", "Georgios Varnavides", "Yaxian Wang", "Tony X Zhou", "Nitesh Kumar", "Yuliya Dovzhenko", "Ziwei Qiu", "Christina A Garcia", "Andrew T Pierce", "Johannes Gooth", "Polina Anikeeva", "Claudia Felser", "Prineha Narang", "Amir Yacoby"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*ArXiv*"
+publication: "*Nat Phys*"
 
-doi: "https://arxiv.org/abs/2009.04477"
-abstract: "In the presence of strong interactions, electrons in condensed matter systems can behave hydrodynamically thereby exhibiting classical fluid phenomena such as vortices and Poiseuille flow. While in most conductors large screening effects minimize electron-electron interactions, hindering the search for possible hydrodynamic candidate materials, a new class of semimetals has recently been reported to exhibit strong interactions. In this work, we study the current flow in the layered semimetal tungsten ditelluride (WTe2) by imaging the local magnetic field above it using a nitrogen-vacancy (NV) defect in diamond. Our cryogenic scanning magnetometry system allows for temperature-resolved measurement with high sensitivity enabled by the long defect spin coherence. We directly measure the spatial current profile within WTe2 and find it differs substantially from the uniform profile of a Fermi liquid, indicating hydrodynamic flow. Furthermore, our temperature-resolved current profile measurements reveal an unexpected non-monotonic temperature dependence, with hydrodynamic effects strongest at ~20 K. We further elucidate this behavior via ab initio calculations of electron scattering mechanisms, which are used to extract a current profile using the electronic Boltzmann transport equation. These calculations show quantitative agreement with our measurements, capturing the non-monotonic temperature dependence. The combination of experimental and theoretical observations allows us to quantitatively infer the strength of electron-electron interactions in WTe2. We show these strong electron interactions cannot be explained by Coulomb repulsion alone and are predominantly phonon-mediated. This provides a promising avenue in the search for hydrodynamic flow and strong interactions in high carrier density materials."
+doi: "10.1038/s41567-021-01341-w"
+abstract: "In the presence of interactions, electrons in condensed-matter systems can behave hydrodynamically, exhibiting phenomena associated with classical fluids, such as vortices and Poiseuille flow1--3. In most conductors, electron--electron interactions are minimized by screening effects, hindering the search for hydrodynamic materials; however, recently, a class of semimetals has been reported to exhibit prominent interactions4,5. Here we study the current flow in the layered semimetal tungsten ditelluride by imaging the local magnetic field using a nitrogen-vacancy defect in a diamond. We image the spatial current profile within three-dimensional tungsten ditelluride and find that it exhibits non-uniform current density, indicating hydrodynamic flow. Our temperature-resolved current profile measurements reveal a non-monotonic temperature dependence, with the strongest hydrodynamic effects at approximately 20{\thinspace}K. We also report ab initio calculations showing that electron--electron interactions are not explained by the Coulomb interaction alone, but are predominantly mediated by phonons. This provides a promising avenue in the search for hydrodynamic flow and prominent electron interactions in high-carrier-density materials."
 url_pdf: "https://arxiv.org/pdf/2009.04477.pdf"
 
 ---
