@@ -36,5 +36,5 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Major: Bioengineering
+- Major: Biological Engineering
 - Mentor: Anthony Tabet
