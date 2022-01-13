@@ -44,6 +44,12 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GeaN3MEAAAAJ&hl=en&oi=ao
+  - icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/nicki_driscoll
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nicolette-driscoll-43b11961/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
