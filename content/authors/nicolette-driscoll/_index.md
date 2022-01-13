@@ -44,7 +44,7 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=GeaN3MEAAAAJ&hl=en&oi=ao
-  - icon: twitter
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/nicki_driscoll
 - icon: linkedin
