@@ -38,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto: bethwh@gmail.com
+  link: mailto:bethwh@gmail.com
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/bethwhittier
