@@ -37,4 +37,4 @@ user_groups:
 ---
 
 - Major: Biological Engineering
-- Mentor: Marc-Joseph Antonini
+- Mentor: Indie Garwood
