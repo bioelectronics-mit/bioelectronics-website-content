@@ -23,7 +23,7 @@ height = "calc(100vh - 70px)"
   # Overlay a color or image (optional).
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
-  overlay_img = "group-photos/group-photo-2022.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_img = "group-photos/Group photo 2022.jpg"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
   
 [[item]]
