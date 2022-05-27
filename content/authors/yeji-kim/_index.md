@@ -22,7 +22,8 @@ bio: Graduate Student | Yogi
 
 interests:
 - Neural Modulation
-- Magnetoelectric Control
+- Magnetoelectric and Magnetothermal Transduction
+- Nanoparticle Synthesis and Characterization
 
 education:
   courses:
@@ -41,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:yejik@mit.edu
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=qZJzpPYAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
