@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rebecca Gillette 
+title: Rebecca Leomi 
 
 # Username (this should match the folder name)
 authors:
