@@ -22,7 +22,10 @@ bio: Lab safety is cool!
 
 interests: []
 
-education: []
+education:
+  - course: BSE in Biochemistry
+    institution: University of Vermont
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
