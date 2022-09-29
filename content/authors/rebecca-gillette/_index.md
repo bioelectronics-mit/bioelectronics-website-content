@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lab Manager
+role: Laboratory Operations Manager
 
 # Organizations/Affiliations
 organizations:
@@ -31,7 +31,7 @@ education: []
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:rgill2@mit.edu
+  link: mailto:leomi@mit.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
