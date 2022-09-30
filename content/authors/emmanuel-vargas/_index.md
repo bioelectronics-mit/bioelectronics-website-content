@@ -23,6 +23,7 @@ bio: Lab safety is cool!
 interests: []
 
 education:
+  courses:
   - course: BA in Biology and Psychology
     institution: Gettysburg College
     year: 2022
