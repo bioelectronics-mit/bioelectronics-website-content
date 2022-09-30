@@ -4,7 +4,7 @@ title: Rebecca Leomi
 
 # Username (this should match the folder name)
 authors:
-- rebecca-gillette
+- rebecca-leomi
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,6 +23,7 @@ bio: Lab safety is cool!
 interests: []
 
 education:
+  courses:
   - course: BS in Biochemistry
     institution: University of Vermont
     year: 2014
