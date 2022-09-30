@@ -22,8 +22,8 @@ bio: Interested in neurobiology and neuroscience. Open to expanding on and learn
 techniques regarding those fields as well as other fields.
 
 interests:
- - Neurobiology
- - Neuroscience
+  - Neurobiology
+  - Neuroscience
 
 education:
   - course: BA in Biology and Psychology
