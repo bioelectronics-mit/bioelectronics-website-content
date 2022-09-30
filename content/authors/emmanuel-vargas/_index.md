@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Laboratory Operations Manager
+role: 
 
 # Organizations/Affiliations
 organizations:
@@ -23,9 +23,9 @@ bio: Lab safety is cool!
 interests: []
 
 education:
-  - course: BS in Biochemistry
-    institution: University of Vermont
-    year: 2014
+  - course: BA in Biology and Psychology
+    institution: Gettysburg College
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +34,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:leomi@mit.edu
+  link: mailto:vargasem@mit.edu
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -45,4 +45,3 @@ user_groups:
 - Staff
 ---
 
-After graduating with a BS in Biochemistry from the University of Vermont in 2014, Becca began her career in lab support as a technician in the Biology department at MIT. She continued to grow her skills as a technician, then lab manager at various institutions in the Boston area before coming back to MIT to manage the Bioelectronics group. Becca’s expertise is in micro and molecular biology, but she loves learning any type of lab technique. When not in the lab, Becca can be found making pottery in her home studio, gawking at the cuteness of her two cats, and consuming an impressive amount of television.
