@@ -20,7 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Lab safety is cool!
 
-interests: []
+interests:
+  - Neurobiology
+  - Neuroscience
 
 education:
   courses:
@@ -46,3 +48,10 @@ user_groups:
 - Staff
 ---
 
+After graduating with a bachelor’s in biology and Psychology from Gettysburg 
+College in 2022, Emmanuel sought after experience related to neuroscience and 
+neurobiology before pursuing higher education. Emmanuel is now a research 
+technician assisting the Bioelectronics group at MIT. While his interests lie primarily 
+in biological techniques, he still enjoys learning other techniques as well as 
+expanding on his knowledge of other fields. When he’s not working, he enjoys 
+working out, running, playing basketball as wells as occasional chess.
