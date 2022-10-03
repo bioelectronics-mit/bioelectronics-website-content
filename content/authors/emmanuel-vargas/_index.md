@@ -20,10 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Bioelectronics Lab Technician
 
-interests:
-  - Neurobiology
-  - Neuroscience
-
 education:
   courses:
   - course: BA in Biology and Psychology
