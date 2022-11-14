@@ -34,5 +34,4 @@ email: ""
 user_groups:
 - Undergraduate Students
 ---
-
 - Mentor: Florian Koehler
