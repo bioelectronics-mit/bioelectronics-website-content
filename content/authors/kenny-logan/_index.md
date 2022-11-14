@@ -1,8 +1,9 @@
+---
 # Display name
-title: Kenny Logan
+title: Veronica Will
 
 # Username (this should match the folder name)
-authors: kenny-logan
+authors: veronica-will
 
 # Is this the primary user of the site?
 superuser: false
@@ -34,4 +35,6 @@ email: ""
 user_groups:
 - Undergraduate Students
 ---
+
+- Major: Biological Engineering
 - Mentor: Florian Koehler
