@@ -36,5 +36,4 @@ user_groups:
 - Undergraduate Students
 ---
 
-
 - Mentor: Anthony Tabet
