@@ -36,5 +36,4 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Major: Biological Engineering
 - Mentor: Florian Koehler
