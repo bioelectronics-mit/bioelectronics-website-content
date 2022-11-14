@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Veronica Will
+title: Kenny Logan
 
 # Username (this should match the folder name)
-authors: veronica-will
+authors: kenny-logan
 
 # Is this the primary user of the site?
 superuser: false
