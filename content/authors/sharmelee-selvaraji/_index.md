@@ -48,6 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=7P85yr8AAAAJ
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SharmeleeS
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
