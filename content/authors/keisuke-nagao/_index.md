@@ -23,7 +23,7 @@ bio: Full-time Graduate Student
 interests:
 - Magnetic Nanoparticles
 - Surface Chemistry
-- Neural Modulation
+- Delivery
 
 education:
   courses:
