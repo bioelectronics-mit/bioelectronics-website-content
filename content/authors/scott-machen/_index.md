@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Bioelectronics Lab Technician
 
-<!-- interests:
-- Games of all types (card games, board games, video games)
-- Nature walks
-- My kitties -->
+# interests:
+# - Games of all types (card games, board games, video games)
+# - Nature walks
+# - My kitties -->
 
 education:
   courses:
