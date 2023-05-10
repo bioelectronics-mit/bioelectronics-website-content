@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: M.S. in Materials Science and Engineering
-    institution: The University of Tokyo
+    institution: University of Tokyo
     year: 2015
   - course: B.S. in Materials Science and Engineering
-    institution: The University of Tokyo
+    institution: University of Tokyo
     year: 2013
 
 # Social/Academic Networking
