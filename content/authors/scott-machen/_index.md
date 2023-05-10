@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Bioelectronics Lab Technician
 
-# interests:
+interests: []
 # - Games of all types (card games, board games, video games)
 # - Nature walks
-# - My kitties -->
+# - My kitties
 
 education:
   courses:
@@ -51,4 +51,5 @@ email: ""
 user_groups:
 - Staff
 ---
+
 Scott obtained his undergraduate degree in Psychology from Suffolk University in 2012, later working for McLean Hospital as a Community Resident Counselor for one of their residential programs. He has since shifted gears after obtaining an associate degree in veterinary technology from UMass Amherst in 2021, now working with lab members on different surgeries and techniques. He also manages transgenic colonies of mice that the lab needs for various studies. He lives with his two cats whom he loves very much. In his spare time, Scott enjoys learning and playing all sorts of games, as well as finding and exploring new places.
