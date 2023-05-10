@@ -21,9 +21,6 @@ organizations:
 bio: Bioelectronics Lab Technician
 
 interests: []
-# - Games of all types (card games, board games, video games)
-# - Nature walks
-# - My kitties
 
 education:
   courses:
