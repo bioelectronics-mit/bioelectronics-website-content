@@ -62,7 +62,7 @@ def save_entry_to_index(entry, directory):
       url = url
 
       f.write('---\n')
-      f.write('title: ' + title + '\n')
+      f.write('title: "' + title + '"\n')
       f.write('date: ' + str(date) + '\n')
       f.write('publicationDate: ' + datetime + '\n')
       f.write('author: [')
@@ -75,7 +75,7 @@ def save_entry_to_index(entry, directory):
       f.write('featured: false\n')
       f.write('publication: "*' + journal + '*"\n\n')
       
-      f.write('doi: "' + doi + '"\n')
+      f.write('doi: "' + url + '"\n')
       try:
         f.write('abstract: "' + abstract + '"\n\n')
       except:
