@@ -21,8 +21,9 @@ organizations:
 bio: Full-time graduate student | Health-care & Technology Enthusiast
 
 interests:
-- Gut-Brain Axis
-- Parkinson's Disease
+- Neural Modulation
+- Magnetic Nanoparticles
+- Neuro-imaging
 - Neuro-immunology
 
 education:
