@@ -2,7 +2,7 @@
 title: "Multifunctional fibers enable modulation of cortical and deep brain activity during cognitive behavior in macaques"
 date: 2022-10-10
 publishDate: 2022-10-10T15:10:26Z
-authors: ["Indie C Garwood", "Alex J Major", "Marc-Joseph Antonini", "Josefina Correa", "Youngbin Lee", "Atharva Sahasrabudhe", "Meredith K Mahnke", "Earl K Miller", "Emery N Brown", "Polina Anikeeva"]
+authors: ["Indie Garwood", "Alex J Major", "Marc-Joseph Antonini", "Josefina Correa", "Youngbin Lee", "Atharva Sahasrabudhe", "Meredith K Mahnke", "Earl K Miller", "Emery N Brown", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false
 publication: "*bioRxiv*"
