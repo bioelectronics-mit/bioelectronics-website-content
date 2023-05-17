@@ -9,7 +9,7 @@ authors: jimin-park
 superuser: false
 
 # Role/position
-role: Postdoc at CalTech (w/ Viviana Gradinaru)
+role: Assistant Professor at KAIST
 
 # Organizations/Affiliations
 organizations: []
