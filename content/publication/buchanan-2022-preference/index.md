@@ -1,8 +1,8 @@
 ---
-title: The preference for sugar over sweetener depends on a gut sensor cell
+title: "The preference for sugar over sweetener depends on a gut sensor cell"
 date: 2022-1-13
 publicationDate: 2022-01-13T17:03:30Z
-author: [" Kelly L. Buchanan", " Laura E. Rupprecht", " M. Maya Kaelberer", " Atharva Sahasrabudhe", " Marguerita E. Klein", " Jorge A. Villalobos", " Winston W. Liu", " Annabelle Yang", " Justin Gelman", " Seongjun Park", " Polina Anikeeva", " Diego V. Bohórquez"]
+author: ["Kelly L. Buchanan", "Laura E. Rupprecht", "M. Maya Kaelberer", "Atharva Sahasrabudhe", "Marguerita E. Klein", "Jorge A. Villalobos", "Winston W. Liu", "Annabelle Yang", "Justin Gelman", "Seongjun Park", "Polina Anikeeva", "Diego V. Bohórquez"]
 publication_types: ["2"]
 featured: false
 publication: "*Nature Neuroscience*"
