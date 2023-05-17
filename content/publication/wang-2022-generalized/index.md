@@ -1,7 +1,7 @@
 ---
 title: "Generalized design principles for hydrodynamic electron transport in anisotropic metals"
 date: 2022-08-12
-publisjDate: 2022-08-12T17:48:30Z
+publishDate: 2022-08-12T17:48:30Z
 authors: ["Yaxian Wang", "Georgios Varnavides", "Ravishankar Sundararaman", "Polina Anikeeva", "Johannes Gooth", "Claudia Felser", "Prineha Narang"]
 publication_types: ["2"]
 featured: false

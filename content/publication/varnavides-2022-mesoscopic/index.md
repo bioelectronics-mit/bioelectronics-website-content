@@ -1,7 +1,7 @@
 ---
 title: Mesoscopic finite-size effects of unconventional electron transport in PdCoO2
 date: 2022-4-8
-publisjDate: 2022-04-08T15:03:05Z
+publishDate: 2022-04-08T15:03:05Z
 authors: ["Georgios Varnavides", "Yaxian Wang", "Philip J. W. Moll", "Polina Anikeeva", "Prineha Narang"]
 publication_types: ["2"]
 featured: false

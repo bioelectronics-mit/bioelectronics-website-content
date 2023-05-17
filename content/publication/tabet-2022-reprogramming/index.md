@@ -1,7 +1,7 @@
 ---
 title: "Reprogramming brain immunosurveillance with engineered cytokines"
 date: 2022-06-25
-publisjDate: 2022-06-25T06:40:13Z
+publishDate: 2022-06-25T06:40:13Z
 authors: ["Anthony Tabet", "Yash Agarwal", "Jordan Stinson", "Caroline Apra", "Veronica Will", "Marie Manthey", "Noor Momin", "Allison Sheen", "Mitchell Murdock", "Luciano Santollani", "Li-Huei Tsai", "Isaac Chiu", "Sean Lawler", "Darrell J. Irvine", "K. Dane Wittrup", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false

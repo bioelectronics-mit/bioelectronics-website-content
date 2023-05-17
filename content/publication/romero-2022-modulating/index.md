@@ -1,7 +1,7 @@
 ---
 title: "Modulating cell signalling in vivo with magnetic nanotransducers"
 date: 2022-11-17
-publisjDate: 2022-11-17T09:05:05Z
+publishDate: 2022-11-17T09:05:05Z
 authors: ["Gabriela Romero", "Jimin Park", "Florian Koehler", "Arnd Pralle", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false

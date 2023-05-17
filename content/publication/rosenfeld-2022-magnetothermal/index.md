@@ -1,7 +1,7 @@
 ---
 title: "Magnetothermal Modulation of Calcium‐Dependent Nerve Growth"
 date: 2022-08-04
-publisjDate: 2022-08-04T02:50:16Z
+publishDate: 2022-08-04T02:50:16Z
 authors: ["Dekel Rosenfeld", "Hannah Field", "Ye Ji Kim", "Karen Ka Lam Pang", "Keisuke Nagao", "Florian Koehler", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false

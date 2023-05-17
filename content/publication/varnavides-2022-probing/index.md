@@ -1,7 +1,7 @@
 ---
 title: Probing carrier interactions using electron hydrodynamics
 date: 2022-04-12
-publicationDate: 2022-04-12
+publishDate: 2022-04-12
 authors: ["Georgios Varnavides", "Adam S Jermyn", "Polina Anikeeva", "Prineha Narang"]
 publication_types: ["2"]
 featured: false

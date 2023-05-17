@@ -1,7 +1,7 @@
 ---
 title: "Probing Neuro-Endocrine Interactions Through Remote Magnetothermal Adrenal Stimulation"
 date: 2022-6-23
-publisjDate: 2022-06-23T04:52:56Z
+publishDate: 2022-06-23T04:52:56Z
 authors: ["Lisa Y. Maeng", "Dekel Rosenfeld", "Gregory J. Simandl", "Florian Koehler", "Alexander W. Senko", "Junsang Moon", "Georgios Varnavides", "Maria F. Murillo", "Adriano E. Reimer", "Aaron Wald", "Polina Anikeeva", "Alik S. Widge"]
 publication_types: ["2"]
 featured: false

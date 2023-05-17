@@ -1,7 +1,7 @@
 ---
 title: "Changes in Brain Neuroimmunology Following Injury and Disease"
 date: 2022-04-27
-publisjDate: 2022-04-27T10:29:30Z
+publishDate: 2022-04-27T10:29:30Z
 authors: ["Anthony Tabet", "Caroline Apra", "Alexis M. Stranahan", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false

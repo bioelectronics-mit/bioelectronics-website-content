@@ -64,7 +64,7 @@ def save_entry_to_index(entry, directory):
       f.write('---\n')
       f.write('title: "' + title + '"\n')
       f.write('date: ' + str(date) + '\n')
-      f.write('publisjDate: ' + datetime + '\n')
+      f.write('publishDate: ' + datetime + '\n')
       f.write('authors: [')
       for i in range(0, len(authors)-1):
         a = authors[i].split(', ')

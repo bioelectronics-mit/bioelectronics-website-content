@@ -1,7 +1,7 @@
 ---
 title: "Building a culture of responsible neurotech: Neuroethics as socio-technical challenges"
 date: 2022-6-6
-publisjDate: 2022-06-06T14:31:35Z
+publishDate: 2022-06-06T14:31:35Z
 authors: ["Jacob T. Robinson", "Karen S. Rommelfanger", "Polina O. Anikeeva", "Arnelle Etienne", "Jennifer French", "Jennifer Gelinas", "Pulkit Grover", "Rosalind Picard"]
 publication_types: ["2"]
 featured: false

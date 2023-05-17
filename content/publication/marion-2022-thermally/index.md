@@ -1,7 +1,7 @@
 ---
 title: "Thermally Drawn Highly Conductive Fibers with Controlled Elasticity"
 date: 2022-3-12
-publisjDate: 2022-03-12T15:46:21Z
+publishDate: 2022-03-12T15:46:21Z
 authors: ["Juliette S. Marion", "Nikhil Gupta", "Henry Cheung", "Kirmina Monir", "Polina Anikeeva", "Yoel Fink"]
 publication_types: ["2"]
 featured: false
