@@ -31,7 +31,7 @@ education:
   - course: B.A in Neuroscience and Behavior
     institution: Rutgers University
     year: 2022
-  - course: B.A in German Phylology and Education, 2014
+  - course: B.A in German Phylology and Education
     institution: National University of Colombia
     year: 2014
 
