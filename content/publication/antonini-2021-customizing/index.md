@@ -1,8 +1,8 @@
 ---
 title: "Customizing Multifunctional Neural Interfaces through Thermal Drawing Process"
 date: 2021-05-18
-publicationDate: 2020-06-14T15:25:55.359349Z
-author: ["Marc-Joseph Antonini", "Atharva Sahasrabudhe", "Anthony Tabet", "Miriam Schwalm", "Dekel Rosenfeld", "Indie Garwood", "Jimin Park", "Gabriel Loke", "Tural Khudiyev", "Mehmet Kanik", "Nathan Corbin", "Andres Canales", "Alan Jasanoff", "Yoel Fink", "Polina Anikeeva"]
+publisjDate: 2020-06-14T15:25:55.359349Z
+authors: ["Marc-Joseph Antonini", "Atharva Sahasrabudhe", "Anthony Tabet", "Miriam Schwalm", "Dekel Rosenfeld", "Indie Garwood", "Jimin Park", "Gabriel Loke", "Tural Khudiyev", "Mehmet Kanik", "Nathan Corbin", "Andres Canales", "Alan Jasanoff", "Yoel Fink", "Polina Anikeeva"]
 publication_types: ["2"]
 featured: false
 publication: "*bioRxiv*"
