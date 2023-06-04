@@ -1,8 +1,8 @@
 ---
-title: Magnetically Actuated Fiber‐Based Soft Robots
+title: "Magnetically Actuated Fiber‐Based Soft Robots"
 date: 2023-06-03
-publicationDate: 2023-06-03T13:39:05Z
-author: [" Youngbin Lee", " Florian Koehler", " Tom Dillon", " Gabriel Loke", " Yoonho Kim", " Juliette Marion", " Marc‐Joseph Antonini", " Indie Garwood", " Atharva Sahasrabudhe", " Keisuke Nagao", " Xuanhe Zhao", " Yoel Fink", " Ellen T. Roche", " Polina Anikeeva"]
+publishDate: 2023-06-03T13:39:05Z
+authors: [" Youngbin Lee", " Florian Koehler", " Tom Dillon", " Gabriel Loke", " Yoonho Kim", " Juliette Marion", " Marc‐Joseph Antonini", " Indie Garwood", " Atharva Sahasrabudhe", " Keisuke Nagao", " Xuanhe Zhao", " Yoel Fink", " Ellen T. Roche", " Polina Anikeeva"]
 publication_types: ["2"]
 featured: false
 publication: "*Advanced Materials*"
