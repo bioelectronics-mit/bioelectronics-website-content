@@ -4,7 +4,7 @@ title: Karen Ka Lam Pang
 
 # Username (this should match the folder name)
 authors:
-- karen-pang
+- karen-ka-lam-pang
 
 # Is this the primary user of the site?
 superuser: false

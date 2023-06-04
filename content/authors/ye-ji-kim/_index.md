@@ -4,7 +4,7 @@ title: Ye Ji Kim
 
 # Username (this should match the folder name)
 authors:
-- yeji-kim
+- ye-ji-kim
 
 # Is this the primary user of the site?
 superuser: false
