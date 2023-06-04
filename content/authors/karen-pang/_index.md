@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Karen Pang
+title: Karen Ka Lam Pang
 
 # Username (this should match the folder name)
 authors:
