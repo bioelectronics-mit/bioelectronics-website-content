@@ -21,16 +21,18 @@ organizations:
 bio: Postdoctoral associate
 
 interests:
-- ""
+- Nanomaterials
+- Tretchable conductors
+- Soft implantable devices
 
 # education:
-#   courses:
-#   - course: Ph.D in Neuroscience
-#     institution: National University of Singapore
-#     year: 2022
-#   - course: B.Sc in Biomedical Science
-#     institution: National University of Singapore
-#     year: 2018
+  courses:
+  - course: Ph.D in Chemical and Biological Engineering
+    institution: Seoul National University
+    year: 2021
+  - course: B.S in Bioengineering 2014
+    institution: Hanyang university
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,10 +42,10 @@ interests:
 - icon: envelope
   icon_pack: fas
   link: mailto:djung91@mit.edu
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/in/sharmelee-selvaraji-118972b9
-# - icon: google-scholar
+- icon: linkedin
+  icon_pack: fab
+  link: https://scholar.google.co.kr/citations?user=D4a8zk8AAAAJ&hl=ko
+- icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.com/citations?hl=en&user=7P85yr8AAAAJ
 # - icon: twitter
