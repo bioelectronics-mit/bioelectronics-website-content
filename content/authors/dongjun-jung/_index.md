@@ -22,7 +22,7 @@ bio: Postdoctoral associate
 
 interests:
 - Nanomaterials
-- Tretchable conductors
+- Stretchable conductors
 - Soft implantable devices
 
 education:
