@@ -49,6 +49,15 @@ height = "calc(100vh - 70px)"
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Retreat 2023"
+  content = "Brewster River Campground, VT"
+  align = "center"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "retreats/retreat-2023.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Retreat 2021"
   content = "Wellfleet Hollow State Campground, MA"
   align = "center"
