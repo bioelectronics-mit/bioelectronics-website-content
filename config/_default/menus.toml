@@ -12,15 +12,15 @@
   name = "Research"
   url = "#overview-icons"
 #  url = "research-topic"
-#  weight = 30
-  weight = 20
+  weight = 30
+#  weight = 20
 
 [[main]]
   name = "People"
   url = "#principal-investigator"
 #  url = "authors"
-#  weight = 20
-  weight = 30
+  weight = 20
+#  weight = 30
 
 [[main]]
   name = "Publications"
@@ -31,8 +31,8 @@
 [[main]]
   name = "Diversity"
   url = "#diversity"
-#  weight = 10
-  weight = 50
+  weight = 10
+#  weight = 50
 
 [[main]]
   name = "Gallery"
