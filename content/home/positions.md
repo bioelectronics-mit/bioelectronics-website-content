@@ -18,9 +18,6 @@ subtitle = ""
 +++
 We invite all researchers, and especially those from backgrounds underrepresented in academia, to apply for the positions listed below. Underrepresented groups include, but are not limited to: African Americans, Latinos, Native Americans, Pacific Islanders, Filipinos, those with disabilities or from disadvantaged backgrounds, and those underrepresented on the basis of gender identity or expression or sexual orientation.
 
-### RESEARCH SUPPORT ASSOCIATE/LABORATORY TECHNICIAN
-We are looking for a research support associate who will be responsible for connecting back-end hardware and testing the functionality of fiber-based neural probes for the lab as well as for its collaborators, and maintaining supplies and the organization of the fiber fabrication lab space.  The position may evolve to include performing routine animal surgeries to implant the neural probes and post-operative care. The position offers an excellent opportunity to facilitate exciting research projects and learn new research skills. Please apply [here](https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=25681&localeCode=en-us).
-
 ### Postdoctoral Rearchers
 We are looking to hire recent PhD graduates (or graduating students) with training in Neuroscience, Physiology, Molecular Biology, Immunology, or Gastroenterology interested in postdoctoral positions in our group. Please contact Polina directly, attaching your CV, most important paper, and a few sentences on what you are looking to accompish and learn during your postdoctoral training.
 
