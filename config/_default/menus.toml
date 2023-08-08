@@ -4,34 +4,38 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "News0"
+  name = "News"
   url = "post"
-  weight = 0
-
-[[main]]
-  name = "Diversity"
-  url = "#diversity"
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "#principal-investigator"
+  name = "Research"
+#  url = "#overview-icons"
+  url = "research-topic"
+#  weight = 30
   weight = 20
 
 [[main]]
-  name = "Research"
-  url = "#overview-icons"
+  name = "People"
+#  url = "#principal-investigator"
+  url = "authors"
+#  weight = 20
   weight = 30
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+#  url = "#publications"
+url = "publications"
   weight = 40
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "Diversity"
+  url = "#diversity"
+#  weight = 10
   weight = 50
+
+
+
 
 [[main]]
   name = "Gallery"
