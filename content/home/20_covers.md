@@ -3,7 +3,7 @@
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
 
-widget = "portofolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
