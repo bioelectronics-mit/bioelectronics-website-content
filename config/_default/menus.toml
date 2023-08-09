@@ -29,6 +29,11 @@
   weight = 40
 
 [[main]]
+  name = "Covers"
+  url = "#20_covers"
+  weight = 45
+
+[[main]]
   name = "Diversity"
   url = "diversity"
 #  weight = 10
