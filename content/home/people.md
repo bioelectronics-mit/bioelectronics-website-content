@@ -18,6 +18,7 @@ subtitle = ""
                  "Graduate Students",
                  "Undergraduate Students",
                  "Alumni"]
+  sort_by = Params.last_name
 
 [design]
   # Show user's social networking links? (true/false)
