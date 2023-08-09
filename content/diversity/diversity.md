@@ -6,7 +6,6 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Commitment to Diversity"
-<!-- date: "2023-12-02" -->
 subtitle = ""
 
 [content]
