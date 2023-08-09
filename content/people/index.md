@@ -1,5 +1,17 @@
-+++
-# Homepage
-type = "widget_page"
-headless = true  # Homepage is headless, other widget pages are not.
-+++
+---
+title: People
+
+type: widget_page
+headless: true
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+# view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
