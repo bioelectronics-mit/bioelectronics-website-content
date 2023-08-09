@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Student
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Postdoctoral Associates & Fellows
 ---
 
 Indie completed her B.SE in Biomedical Engineering from the University of Michigan in 2017 and joined the Harvard-MIT Health Sciences and Technology Medical Engineering and Medical Physics Program in 2017. She is co-advised by Polina in the Bioelectronics Lab and Emery Brown in the Neuroscience Statistics Research Lab. Indie's research focuses on developing deep brain neurotechnology to study the subcortical mechanisms of ketamine anesthesia. Indie also develops methods to quantify electrophysiological biomarkers of anesthesia.
