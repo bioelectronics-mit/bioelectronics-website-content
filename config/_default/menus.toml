@@ -36,8 +36,8 @@
 
 [[main]]
   name = "Gallery"
-#  url = "#gallery"
-  url = "gallery"
+  url = "#gallery"
+#  url = "gallery"
   weight = 60
 
 [[main]]
