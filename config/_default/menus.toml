@@ -42,7 +42,8 @@
 
 [[main]]
   name = "Positions"
-  url = "#positions"
+#  url = "#positions"
+  url = "position"
   weight = 70
 
 # [[main]]
