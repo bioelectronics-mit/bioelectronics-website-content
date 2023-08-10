@@ -1,7 +1,4 @@
 ---
-title: People
-date: 2023-08-09
-
 type: widget_page
 headless: true
 
