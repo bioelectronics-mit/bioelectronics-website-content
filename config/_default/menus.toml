@@ -56,11 +56,3 @@
 #  name = "Contact"
 #  url = "#contact"
 #  weight = 80
-
-[[main]]
-  name = "Team"
-#  url = "#principal-investigator"
-  url = "people"
-#   url = "#people"
-#  weight = 20
-  weight = 90
