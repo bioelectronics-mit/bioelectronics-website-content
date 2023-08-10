@@ -37,4 +37,4 @@ MIT scientists have developed tiny, soft-bodied robots that can be controlled wi
 
 The new robots are well suited to transport cargo through confined spaces and their rubber bodies are gentle on fragile environments, opening the possibility that the technology could be developed for biomedical applications. Anikeeva and her team have made their robots millimeters long, but she says the same approach could be used to produce much smaller robots.
 
-[Read the full story](https://dmse.mit.edu/news/magnetic-robots-walk-crawl-and-swim/)
+[Read the full story](https://news.mit.edu/2023/magnetic-robots-walk-crawl-swim-0707)
