@@ -17,8 +17,9 @@
 
 [[main]]
   name = "People"
-  url = "#principal-investigator"
+#  url = "#principal-investigator"
 #  url = "people"
+   url = "#people"
 #  weight = 20
   weight = 30
 
@@ -56,3 +57,9 @@
 #  url = "#contact"
 #  weight = 80
 
+[[main]]
+  name = "Members"
+#  url = "#principal-investigator"
+   url = "people"
+#  weight = 20
+   weight = 90
