@@ -1,14 +1,10 @@
 ---
-title: Research
+title: Research Topics
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
+# Listing view
 view: 2
 
-# Optional header image (relative to `static/img/` folder).
+# Optional banner image (relative to `assets/media/` folder).
 header:
   caption: ""
   image: ""

@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Bioelectronics Group"
+title = ""
 subtitle = ""
 
 [design]
@@ -49,9 +49,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-Welcome to the **Bioelectronics** Group at MIT.
-
-Our lab works at the interface of materials science, electronics, and neurobiology with the goal of advancing the understanding and treatment of disorders of the nervous system.
-We design, synthesize, and fabricate optoelectronic and magnetic devices that manipulate and record neuronal activity and development.
-

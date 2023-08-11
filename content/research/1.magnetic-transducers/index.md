@@ -12,8 +12,10 @@ weight: 10
 external_link: ""
 
 image:
-  caption: Nanomagnetic materials to interface with neural circuits
-  focal_point: Smart
+  placement: 2
+  # caption: Nanomagnetic materials to interface with neural circuits
+  # focal_point: Smart
+  preview_only: false
 
 links: []
 url_code: ""
