@@ -21,9 +21,8 @@ organizations:
 bio: Graduate Student | Yogi
 
 interests:
-- Neural Modulation
-- Magnetoelectric and Magnetothermal Transduction
-- Nanoparticle Synthesis and Characterization
+- Magnetic Nanostransducers
+- Neural modulation
 
 education:
   courses:
@@ -56,7 +55,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-Ye Ji Kim received her B.S. and M.S. degree from the Department of Materials Science and Engineering at Korea Advanced Institute of Science and Technology. Her previous research mainly focused on elucidating the contribution of microenvironment constrained by three-dimensional nanostructures to the enhanced performance of electrocatalysts. She joined the Bioelectronics group in November 2020, fascinated by the capability to discover and develop tools to engineer microenvironments in brain. She is currently trying to modulate neural circuits with magnetic nanodiscs.
-
-Outside the lab, she enjoys a happiness routine: exploring popular restaurants, having tea time with beautiful desserts, and exercising to burn all of the calories.
-
+Yeji completed her B.S. and M.S. in Materials Science and Engineering from Korea Advanced Institute of Science and Technology and joined the Bioelectronics group in November 2020. Her research focuses on developing magnetic nanotransducers (MNTs) for the modulation of the deep brain area or the gut-brain axis. Yeji also develops methods for in-vitro and in-vivo demonstration of MNT-mediated neural modulations. In addition, she is interested in simulation of the magnetic multiferroic properties of the MNTs and neuronal simulation to elucidate the mechanism of the MNT-mediated neural modulation. When she is not in lab, Yeji enjoys exploring nice restaurants, having tea time with beautiful desserts, and burning all the calories from them.
