@@ -23,7 +23,7 @@ bio: Graduate Student
 interests:
 - Magnetic Nanoparticles
 - Surface Chemistry
-- Delivery
+- Targeted Delivery
 
 education:
   courses:
@@ -56,4 +56,4 @@ email: ""
 user_groups:
 - Graduate Students
 ---
-Keisuke joined the Bioelectronics group in November 2020. He completed B.S./M.S. in Materials Science and Engineering at University of Tokyo. After completing B.S./M.S., Keisuke worked in the private sector as a research engineer for 5 years. His previous research was on inorganic functional materials such as sodium-ion battery electrodes. In his current research, Keisuke is co-advised by Polina and Prof. Robert Macfarlane in DMSE. His research focuses on minimally invasive delivery of magnetic nanoparticles to the organ/tissue of interest. Outside the lab, Keisuke enjoys coffee, photography, and time with his family.
+Keisuke joined the Bioelectronics group in November 2020 and is co-advised by Polina and Prof. Robert Macfarlane in DMSE. He completed BS/MS in Materials Science and Engineering at the University of Tokyo. After completing MS, Keisuke worked in the private sector as a research engineer for 5 years. His previous research was on inorganic functional materials such as sodium-ion battery electrodes. His current interests are in minimally invasive delivery of magnetic nanoparticles to target organs/tissues. Outside the lab, Keisuke enjoys coffee, photography, and time with his family.
