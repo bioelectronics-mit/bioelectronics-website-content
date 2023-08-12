@@ -18,13 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate student developing neurotechnology to study anesthesia | Devoted dog + cat mom
+bio: Postdoctoral Associate student developing neurotechnology to study anesthesia | Devoted dog + cat mom
 
 interests:
-- Multifunctional Neural Probes
-- Anesthesia
-- Electrophysiology
-- Statistics
+- Multifunctional neurotechnology
+- Systems neuroscience
 
 education:
   courses:
@@ -56,5 +54,4 @@ user_groups:
 - Postdoctoral Associates & Fellows
 ---
 
-Indie completed her B.SE in Biomedical Engineering from the University of Michigan in 2017 and joined the Harvard-MIT Health Sciences and Technology Medical Engineering and Medical Physics Program in 2017. She is co-advised by Polina in the Bioelectronics Lab and Emery Brown in the Neuroscience Statistics Research Lab. Indie's research focuses on developing deep brain neurotechnology to study the subcortical mechanisms of ketamine anesthesia. Indie also develops methods to quantify electrophysiological biomarkers of anesthesia.
-When she is not in lab, Indie enjoys hiking, thrifting, photography, and taking her dog on adventures.
+Indie completed her BSE in Biomedical Engineering from the University of Michigan in 2017 and her PhD in Medical Engineering and Medical Physics from Harvard-MIT in 2023. In her PhD, she translated multifunctional fiber technology to study cortical and deep brain neurochemical signaling in macaques. Her postdoctoral research focuses on how neurochemical signaling during ketamine anesthesia results in highly structured cortical activity and altered states of consciousness. Her postdoctoral project is a collaboration between the labs of Polina Anikeeva, Emery Brown, and Earl Miller. When she is not in lab, Indie enjoys running, thrifting, and taking her dog on adventures.
