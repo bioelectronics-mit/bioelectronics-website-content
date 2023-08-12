@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Indie on a successful thesis defense on "Probing the depths of unconsciousness with multifunctional neurotechnology" at the MGH Ether Dome!!! 
+Congratulations to Indie on a successful thesis defense on \{"}Probing the depths of unconsciousness with multifunctional neurotechnology\{"} at the MGH Ether Dome!!! 

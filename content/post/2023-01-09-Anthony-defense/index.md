@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Anthony on a successful thesis defense on "Localized cytokines protect neuronal integrity and drive potent anti-cancer immunity"!!!
+Congratulations to Anthony on a successful thesis defense on \{"}Localized cytokines protect neuronal integrity and drive potent anti-cancer immunity\{"}!!!
