@@ -1,5 +1,5 @@
 ---
-title: 'Indie's defense'
+title: 'Anthony's defense'
 subtitle: ''
 summary: 
 authors:
@@ -7,8 +7,8 @@ tags:
 - Defense
 categories:
 - Defense
-date: "2023-05-08T00:00:00Z"
-lastmod: "2023-05-08T00:00:00Z"
+date: "2023-01-09T00:00:00Z"
+lastmod: "2023-01-09T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Indie on a successful thesis defense on "Probing the depths of unconsciousness with multifunctional neurotechnology" at the MGH Ether Dome!!! 
+Congratulations to Anthony on a successful thesis defense on "Localized cytokines protect neuronal integrity and drive potent anti-cancer immunity"!!!
