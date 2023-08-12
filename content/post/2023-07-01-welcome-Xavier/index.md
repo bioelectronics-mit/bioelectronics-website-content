@@ -1,5 +1,5 @@
 ---
-title: 'New postdoc - Welcome Jun!'
+title: 'New graduate student - Welcome Xavier!'
 subtitle: ''
 summary: 
 authors:
@@ -7,8 +7,8 @@ tags:
 - Welcome
 categories:
 - Welcome
-date: "2023-02-21T00:00:00Z"
-lastmod: "2023-02-21T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
+lastmod: "2023-07-01T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-We welcome Dongjun (Jun) Jung to the Bioelectronics group!
+We welcome Xavier Smith (EECS) to the Bioelectronics group!
