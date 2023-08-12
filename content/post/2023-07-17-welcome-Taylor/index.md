@@ -3,7 +3,6 @@ title: 'New postdoc - Welcome Taylor!'
 subtitle: ''
 summary: 
 authors:
-- Polina Anikeeva
 tags:
 - Welcome
 categories:
