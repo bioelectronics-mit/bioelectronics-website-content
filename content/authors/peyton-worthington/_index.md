@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Luke Jain
+title: Peyton Worthington
 
 # Username (this should match the folder name)
-authors: luke-jain
+authors: peyton-worthington
 
 # Is this the primary user of the site?
 superuser: false
@@ -36,5 +36,5 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Major: Materials Science and Engineering
+- Major: Mechanical Engineering
 - Mentor: Keisuke Nagao
