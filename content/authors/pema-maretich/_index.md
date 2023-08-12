@@ -22,9 +22,8 @@ bio: Full-time graduate student examining the effects of opioids on the gut-brai
 
 interests:
 - Addiction
-- Gut-Brain Axis
-- Magnetic Nanoparticles
-- Immune Dysregulation
+- HPA-axis
+- Neuroendocrine modulation
 
 education:
   courses:
