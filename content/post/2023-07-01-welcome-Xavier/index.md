@@ -3,6 +3,7 @@ title: 'New graduate student - Welcome Xavier!'
 subtitle: ''
 summary: 
 authors:
+- Xavier Smith
 tags:
 - Welcome
 categories:

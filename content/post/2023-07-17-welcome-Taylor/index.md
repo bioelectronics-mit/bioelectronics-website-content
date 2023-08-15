@@ -3,6 +3,7 @@ title: 'New postdoc - Welcome Taylor!'
 subtitle: ''
 summary: 
 authors:
+- Taylor Cannon
 tags:
 - Welcome
 categories:

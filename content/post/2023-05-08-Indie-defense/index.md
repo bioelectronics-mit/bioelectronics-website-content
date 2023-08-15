@@ -3,6 +3,7 @@ title: "Indie's defense"
 subtitle: ''
 summary: 
 authors:
+- Indie Garwood
 tags:
 - Defense
 categories:
