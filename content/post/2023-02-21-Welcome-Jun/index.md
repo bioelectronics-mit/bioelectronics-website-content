@@ -3,6 +3,7 @@ title: 'New postdoc - Welcome Jun!'
 subtitle: ''
 summary: 
 authors:
+- Dongjun Jung
 tags:
 - Welcome
 categories:

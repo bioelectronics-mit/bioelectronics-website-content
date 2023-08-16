@@ -3,6 +3,7 @@ title: "Anthony's defense"
 subtitle: ''
 summary: 
 authors:
+- Anthony Tabet
 tags:
 - Defense
 categories:
