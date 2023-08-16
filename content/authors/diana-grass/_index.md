@@ -8,6 +8,7 @@ authors:
 
 # Is this the primary user of the site?
 superuser: false
+weight: 202209
 
 # Role/position
 role: Graduate Student
