@@ -11,6 +11,8 @@ weight: 20
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
+featured: true
+
 image:
   caption: Multifunctional fibers to interface with neural circuits
   focal_point: Smart
