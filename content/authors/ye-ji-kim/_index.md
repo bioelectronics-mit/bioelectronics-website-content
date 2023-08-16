@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weihgt: 202011
+weight_alphanumeric: Kim
 
 # Role/position
 role: Graduate Student

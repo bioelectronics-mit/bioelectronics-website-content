@@ -9,7 +9,7 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 1
+weight_alphanumeric: Sahasrabudhe
 
 # Role/position
 role: Graduate Student

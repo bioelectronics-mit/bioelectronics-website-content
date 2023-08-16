@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight_alphanumeric: Tabet
+
 # Role/position
 role: Graduate Student
 
@@ -32,8 +34,6 @@ education:
   - course: B.S. in Chemical Engineering
     institution: University of Minnesota
     year: 2017
-
-weight: 10
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
