@@ -23,9 +23,9 @@ organizations:
 bio: Graduate Student and Biomedical Engineer | Aspiring cookbook author
 
 interests:
-- Gut-brain axis
-- Satiety
-- Multi-functional neural probes
+- Neurodevelopment
+- Enteric nervous system
+- Neural probes
 
 education:
   courses:
