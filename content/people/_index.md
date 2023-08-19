@@ -16,6 +16,7 @@ content:
       - Graduate Students
       - Undergraduate Students
       - Alumni
+  page_type: authors
 design:
   # Show user's social networking links? (true/false)
   show_social: false
