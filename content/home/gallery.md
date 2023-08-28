@@ -28,7 +28,7 @@ interval = 5000
 
 [[item]]
   title = "Bioelectronics 10-year Anniversary Reunion"
-  content = ""
+  content = "12-02-2022"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
