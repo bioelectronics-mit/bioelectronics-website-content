@@ -27,6 +27,15 @@ interval = 5000
   overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 [[item]]
+  title = "Bioelectronics 10-year Anniversary Reunion"
+  content = "12-02-2022"
+  align = "center"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "group-photos/reunion-2022-crop.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Group Photo 2022"
   content = ""
   align = "center"  # Choose `center`, `left`, or `right`.
