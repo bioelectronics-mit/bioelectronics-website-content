@@ -1,6 +1,6 @@
 ---
-title: Magnetic Nanodiscs Enable
-summary: Remote Magnetomechanical Neural Stimulation
+title: Magnetic Nanodiscs Enable Remote Magnetomechanical Neural Stimulation
+summary: 
 date: 2020-06-19
 publishDate: 2020-09-20
 authors: ["Danijela Gregurec", "Alexander W Senko", "Andrey Chuvilin", "Pooja Reddy", "Ashwin Sankararaman", "Dekel Rosenfeld", "Pohan Chiang", "Francisco Garcia", "Ian Tafel", "Georgios Varnavides", "Eugenia Ciocan", "Polina Anikeeva"]
