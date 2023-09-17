@@ -4,7 +4,7 @@ title: Jacob Beckham
 
 # Username (this should match the folder name)
 authors:
-- jacob-beckham
+- jacob-beckham-1
 
 # Is this the primary user of the site?
 superuser: false
