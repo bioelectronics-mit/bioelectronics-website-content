@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Postdoctoral Associates & Fellows
+- none
 ---
 
 Jacob completed his undergraduate degree in Chemistry at the University of Georgia in 2018. After spending several months working on superconducting materials at Lawrence Livermore National Laboratory, he enrolled in a PhD program in Chemistry at Rice University. His thesis, which was completed in August 2023, comprised several studies on carbon nanomaterials, including graphene and molecular motors. Most significantly, Jacob's work showed that the rapid actuation of a molecular machine could be used to control intra and intercellular calcium waves in vitro and in vivo, demonstrating the use of mechanical force delivered by a small molecule to cause an intracellular signaling cascade. Jacob's work also addressed the use of these motors to treat fungal infections and demonstrated effective machine learning models built to predict the nucleation of graphene crystals in an electrothermal discharge. Jacob is excited to bring his expertise to the Bioelectronics group and build new tools for the control of cell signaling in the gut-brain axis. Outside the lab, Jacob enjoys martial arts, singing, and watching college football with his fiancé and two cats.
