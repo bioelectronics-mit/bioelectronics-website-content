@@ -21,9 +21,9 @@ organizations:
 bio: Postdoctoral associate working on new magnetic technologies for controlling biological function
 
 interests:
-- Magnetic Materials
-- Intracellular Signaling
-- Gut-Brain Axis
+- 
+- 
+- 
 
 education:
   courses:
