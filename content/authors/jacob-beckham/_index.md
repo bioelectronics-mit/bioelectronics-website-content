@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: none
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: Postdoctoral associate working on new magnetic technologies for controlling biological function
 
 interests:
-- 
-- 
-- 
+- Magnetic Materials
+- Intracellular Signaling
+- Gut-Brain Axis
 
 education:
   courses:
