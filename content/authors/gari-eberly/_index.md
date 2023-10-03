@@ -24,8 +24,8 @@ bio: Graduate Student and Biomedical Engineer | Aspiring cookbook author
 
 interests:
 - Neurodevelopment
-- Enteric nervous system
-- Neural probes
+- Enteric Nervous System
+- Neural Probes
 
 education:
   courses:
