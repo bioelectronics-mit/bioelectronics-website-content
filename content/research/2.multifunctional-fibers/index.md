@@ -1,6 +1,6 @@
 ---
 title: "Area II: Multifunctional interfaces with central and peripheral nervous systems"
-summary:  "Multifunctional. Flexible. Scalable."
+summary:  " "
 tags:
 - Multifunctional Fibers
 date: "2023-10-03T00:00:00Z"
