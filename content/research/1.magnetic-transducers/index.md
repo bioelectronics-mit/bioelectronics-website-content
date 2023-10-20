@@ -1,6 +1,6 @@
 ---
 title: "Area I: Magnetic manipulation and recording of neuronal signaling with nanomaterials"
-summary: 
+summary: "Minimally invasive nanomagentic techniques"
 tags:
 - Nanotransducers
 date: "2023-10-03T00:00:00Z"

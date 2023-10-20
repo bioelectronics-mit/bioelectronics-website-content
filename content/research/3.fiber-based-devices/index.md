@@ -1,6 +1,6 @@
 ---
 title: "Area III: Contributions of peripheral organ signaling to brain function and behavior"
-summary: 
+summary: "Deciphering interoception"
 tags:
 - gut-brain
 date: "2023-10-03T00:00:00Z"
