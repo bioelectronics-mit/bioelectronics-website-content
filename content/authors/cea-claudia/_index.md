@@ -29,15 +29,16 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Biomedical Engineering
-    institution: University of Pisa, Italy
-    year: 2014
-  - course: M.Sc. in Bioengineering
-    insittution: San Diego State University
-      year: 2018
   - course: Ph.D. in Electrical Engineering
     institution: Columbia University
     year: 2023
+  - course: M.Sc. in Bioengineering
+    institution: San Diego State University
+    year: 2018
+  - course: B.S. in Biomedical Engineering
+    institution: University of Pisa, Italy
+    year: 2014
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
