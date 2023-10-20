@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Katherine Lei
+title: Shota Michida
 
 # Username (this should match the folder name)
-authors: katherine-lei
+authors: shota-michida
 
 # Is this the primary user of the site?
 superuser: false
@@ -36,5 +36,5 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Major: Materials Science and Engineering
-- Mentor: Keisuke Nagao, Florian Koehler
+- Major: Materials Science and Engineering (Exchange student from the University of Tokyo)
+- Mentor: Keisuke Nagao
