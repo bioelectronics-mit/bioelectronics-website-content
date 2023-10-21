@@ -2,7 +2,7 @@
 title: 'Soft optical fibers block pain while moving and stretching with the body'
 subtitle: ''
 summary: 'The fibers could help with testing treatments for nerve-related pain.'
-authors: ["Siuan Rao", "Atharva Sahasrabudhe", "Polina Anikeeva"]
+authors: ["Siyuan Rao", "Atharva Sahasrabudhe", "Polina Anikeeva"]
 tags:
 - MIT News
 - Multifunctional Fiber
