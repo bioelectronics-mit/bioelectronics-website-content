@@ -1,5 +1,5 @@
 ---
-title: 'Congratulations to Yeji for receiving the Association of Koran Neuroscientists Predoctoral Award at SfN!
+title: 'Congratulations to Yeji for receiving the Association of Korean Neuroscientists Predoctoral Award at SfN!
 '
 subtitle: ''
 summary: ''
