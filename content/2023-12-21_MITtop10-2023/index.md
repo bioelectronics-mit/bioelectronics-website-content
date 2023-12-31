@@ -1,5 +1,5 @@
 ---
-title: 'Atharva’s work is one of the MIT Top 10 research stories of 2023!'
+title: 'Our work on the gut-brain is one of the MIT Top 10 research stories of 2023!'
 subtitle: ''
 summary: ''
 authors: ["Atharva Sahasrabudhe"]
