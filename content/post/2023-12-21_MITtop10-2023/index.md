@@ -1,5 +1,5 @@
 ---
-title: 'Our work on the gut-brain is one of the MIT Top 10 research stories of 2023!'
+title: 'Our paper is one of the MIT Top 10 research stories of 2023!'
 subtitle: ''
 summary: ''
 authors: ["Atharva Sahasrabudhe"]
@@ -29,6 +29,6 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-[Atharva's paper](https://bioelectronics.mit.edu/publication/shahriari-2023-multifunctional/) is one of the MIT Top 10 research stories of 2023.
+Our work on the development of multifunctional fibers for unraveling connections between the gut and the brain [Sahasrabudhe, et al., Nat. Biotechnol., 2023](https://bioelectronics.mit.edu/publication/shahriari-2023-multifunctional/) is one of the MIT Top 10 research stories of 2023. Congratulations Atharva and co-authors!
 
  [Original article](https://news.mit.edu/2023/mits-top-research-stories-1221)
