@@ -1,15 +1,14 @@
 ---
-title: "Indie's defense"
+title: "Atharva's defense"
 subtitle: ''
 summary: 
 authors:
-- Indie Garwood
+- Atharva Sahasrabudhe
 tags:
 - Defense
 categories:
 - Defense
-date: "2023-05-08T00:00:00Z"
-lastmod: "2023-05-08T00:00:00Z"
+date: "2024-02-06T00:00:00Z"
 featured: false
 draft: false
 
