@@ -30,4 +30,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Indie on a successful thesis defense, "Probing the depths of unconsciousness with multifunctional neurotechnology", at the MGH Ether Dome!!! 
+Congratulations to Atharva on a successful thesis defense!!! 

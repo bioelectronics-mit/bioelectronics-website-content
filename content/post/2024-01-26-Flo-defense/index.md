@@ -1,15 +1,14 @@
 ---
-title: "Indie's defense"
+title: "Flo's defense"
 subtitle: ''
 summary: 
 authors:
-- Indie Garwood
+- Florian Koehler
 tags:
 - Defense
 categories:
 - Defense
-date: "2023-05-08T00:00:00Z"
-lastmod: "2023-05-08T00:00:00Z"
+date: "2024-01-26T00:00:00Z"
 featured: false
 draft: false
 
@@ -30,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Indie on a successful thesis defense, "Probing the depths of unconsciousness with multifunctional neurotechnology", at the MGH Ether Dome!!! 
+Congratulations to Flo on a successful thesis defense: "Magnetic Tools for Neural Interfacing"!!! 
