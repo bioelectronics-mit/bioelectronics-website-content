@@ -12,7 +12,7 @@ superuser: false
 weight_alphanumeric: Tabet
 
 # Role/position
-role: G
+role: 
 # Organizations/Affiliations
 organizations:
 - name: 
