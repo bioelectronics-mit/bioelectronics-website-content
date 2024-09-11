@@ -9,7 +9,7 @@ authors: peyton-worthington
 superuser: false
 
 # Role/position
-role: 
+role: Undergraduate Student at MIT MECHE
 
 # Organizations/Affiliations
 organizations: []
@@ -33,8 +33,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
-
+- Undergraduate Researcher (2022-2023)
 - Major: Mechanical Engineering
 - Mentor: Keisuke Nagao
