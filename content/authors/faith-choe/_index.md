@@ -1,10 +1,9 @@
-
 ---
 # Display name
-title: Faith Kelly
+title: Faith Choe
 
 # Username (this should match the folder name)
-authors: faith-kelly
+authors: faith-choe
 
 # Is this the primary user of the site?
 superuser: false
@@ -37,4 +36,4 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Mentor: Rajib Mondal
+- Mentor: Pema Maretich

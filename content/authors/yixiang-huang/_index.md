@@ -1,4 +1,3 @@
-
 ---
 # Display name
 title: Yixiang Huang
@@ -34,7 +33,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alulmni
 ---
 
+- Undergraduate researcher
 - Mentor: Rajib Mondal
