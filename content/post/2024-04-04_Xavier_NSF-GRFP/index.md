@@ -1,6 +1,6 @@
 ---
 title: "Congratulations to Xavier for being awarded NSF GRFP fellowship!"
-subtitle!"
+subtitle: 
 summary: 
 authors:
 - Xavier Smith
