@@ -21,7 +21,7 @@ authors:
   - Danijela Gregurec
   - Polina Anikeeva
 publication: "Nature Nanotechnology"
-publication_types" ["2"]
+publication_types: ["2"]
 featured: false
 dater: 2024-10-11
 doi: "10.1038/s41565-024-01798-9"
