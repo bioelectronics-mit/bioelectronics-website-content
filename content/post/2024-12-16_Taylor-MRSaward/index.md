@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
+title: "Congratulations to Taylor for winning the Rising Star Award from the Symposium SB02 at MRS!"
 subtitle: ''
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Taylor Cannon
 tags:
-- Fellowship
+- Award
 categories:
-- Fellowship
-date: "2025-01-27T00:00:00Z"
+- Award
+date: "2024-12-16T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Taylor for winning the Rising Star Award from the Symposium SB02 at MRS!

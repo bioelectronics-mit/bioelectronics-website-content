@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
+title: "Congratulations to Claudia for being named one of this years's TR35 awardees!"
 subtitle: ''
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Claudia Cea 
 tags:
-- Fellowship
+- Award
 categories:
-- Fellowship
-date: "2025-01-27T00:00:00Z"
+- Award
+date: "2024-09-10T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Claudia for being named one of this years's TR35 awardees!
+https://www.technologyreview.com/innovator/claudia-cea/

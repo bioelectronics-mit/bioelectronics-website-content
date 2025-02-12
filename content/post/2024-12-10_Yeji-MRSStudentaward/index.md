@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
+title: "Congratulations to Yeji for winning the MRS Student Silver Award!"
 subtitle: ''
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Ye Ji Kim
 tags:
-- Fellowship
+- Award
 categories:
-- Fellowship
-date: "2025-01-27T00:00:00Z"
+- Award
+date: "2024-12-10T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Yeji for winning the MRS Student Silver Award!

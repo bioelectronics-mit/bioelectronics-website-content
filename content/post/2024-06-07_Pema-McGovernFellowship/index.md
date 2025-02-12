@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
+title: "Congratulations to Pema for being awarded Friends of McGovern Fellowship!"
 subtitle: ''
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Pema Maretich
 tags:
 - Fellowship
 categories:
 - Fellowship
-date: "2025-01-27T00:00:00Z"
+date: "2024-06-07T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Pema for being awarded Friends of McGovern Fellowship!

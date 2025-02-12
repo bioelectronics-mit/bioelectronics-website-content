@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
+title: "Congratulations to Taylor for being awarded NIH F32!"
 subtitle: ''
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Taylor Cannon
 tags:
 - Fellowship
 categories:
 - Fellowship
-date: "2025-01-27T00:00:00Z"
+date: "2024-08-27T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Taylor for being awarded NIH F32!

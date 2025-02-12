@@ -1,14 +1,14 @@
 ---
-title: "Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!"
-subtitle: ''
+title: "Congratulations to Xavier for being awarded NSF GRFP fellowship!"
+subtitle!"
 summary: 
 authors:
-- Sharmelee Selvaraji
+- Xavier Smith
 tags:
 - Fellowship
 categories:
 - Fellowship
-date: "2025-01-27T00:00:00Z"
+date: "2024-06-07T00:00:00Z"
 featured: false
 draft: false
 
@@ -29,4 +29,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-Congratulations to Sharm for being awarded the Lore Harp McGovern 25th Anniversary Postdoctoral Fellowship!
+Congratulations to Xavier for being awarded NSF GRFP fellowship!"
+subtitle!
