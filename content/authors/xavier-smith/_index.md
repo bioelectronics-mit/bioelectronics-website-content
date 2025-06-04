@@ -39,7 +39,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:mxaviers@mit.edu
+  link: mailto:xaviers@mit.edu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/xavier-smith-796170201
