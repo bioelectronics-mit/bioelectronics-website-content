@@ -26,7 +26,7 @@ authors:
   - M. Maya Kaelberer
   - Diego V. Bohórquez
 publication: "Nature"
-publication_types: ["original research"]
+publication_types: ["0"]
 featured: false
 date: 2025-07-23
 publishDate: 2025-07-23

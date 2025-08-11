@@ -10,7 +10,7 @@ authors:
   - S. M. Klingensmith
   - P. Anikeeva
 publication: "Frontiers in Neuroscience"
-publication_types: ["original research"]
+publication_types: ["0"]
 featured: false
 date: 2025-04-17
 publishDate: 2025-04-17

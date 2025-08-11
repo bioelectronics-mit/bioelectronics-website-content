@@ -6,7 +6,7 @@ authors:
   - Atharva Sahasrabudhe
   - Polina Anikeeva
 publication: "Current Opinion in Neurobiology"
-publication_types: ["review"]
+publication_types: ["0"]
 featured: false
 date: 2025-08-01
 publishDate: 2025-08-01
