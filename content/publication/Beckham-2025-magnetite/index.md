@@ -14,7 +14,7 @@ authors:
   - S. Kang
   - P. Anikeeva
 publication: "Journal of the American Chemical Society"
-publication_types: ["0"]
+publication_types: ["2"]
 featured: false
 date: 2025-04-23
 publishDate: 2025-04-23

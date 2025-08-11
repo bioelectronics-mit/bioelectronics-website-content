@@ -5,7 +5,7 @@ authors:
   - C. Cea
   - P. Anikeeva
 publication: "Nature Reviews Bioengineering"
-publication_types: ["0"]
+publication_types: ["2"]
 featured: false
 date: 2025-03-27
 publishDate: 2025-03-27
