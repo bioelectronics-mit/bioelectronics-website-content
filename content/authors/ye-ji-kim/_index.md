@@ -12,7 +12,7 @@ superuser: false
 weight_alphanumeric: Kim
 
 # Role/position
-role: Graduate Student
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Graduate Student | Yogi
+bio: Yogi
 
 interests:
 - Magnetic Nanostransducers
@@ -28,6 +28,9 @@ interests:
 
 education:
   courses:
+  - course: Ph.D in Materials Science and Engineering
+    institution: MIT
+    year: 2025
   - course: M.S. in Materials Science and Engineering
     institution: Korea Advanced Institute of Science and Technology
     year: 2019
