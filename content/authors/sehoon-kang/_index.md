@@ -33,9 +33,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- 
 ---
-
-- Since: Fall 2024
-- Major: Materials Science and Engineering
-- Mentor: Jacob Beckham

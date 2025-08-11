@@ -55,6 +55,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Graduate Students
+- Postdoctoral Associates & Fellows
 ---
 Yeji completed her B.S. and M.S. in Materials Science and Engineering from Korea Advanced Institute of Science and Technology and joined the Bioelectronics group in November 2020. Her research focuses on developing magnetic nanotransducers (MNTs) for the modulation of deep brain areas or gut-brain axis. Yeji also develops methods for in-vitro and in-vivo demonstration of MNT-mediated neural modulations. In addition, she is interested in materials simulation of multiferroic properties of the MNTs and neuronal simulation to elucidate the mechanism of the MNT-mediated neural modulation. When she is not in lab, Yeji enjoys exploring nice restaurants, having tea time with beautiful desserts, and burning all the calories from them through exercise
