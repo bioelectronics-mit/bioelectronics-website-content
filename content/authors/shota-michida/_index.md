@@ -33,8 +33,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
-
+- Undergraduate student
+- Fall 2023
 - Major: Materials Science and Engineering (Exchange student from the University of Tokyo)
 - Mentor: Keisuke Nagao

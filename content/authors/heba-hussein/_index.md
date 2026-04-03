@@ -36,4 +36,4 @@ user_groups:
 - Undergraduate Students
 ---
 
-- Mentor: Anthony Tabet
+- Mentor: Gary  Eberly

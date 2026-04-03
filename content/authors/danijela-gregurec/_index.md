@@ -37,4 +37,3 @@ user_groups:
 ---
 
 - Postdoctoral Researcher: 2016-2020
-

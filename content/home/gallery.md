@@ -18,13 +18,22 @@ interval = 5000
 # Duplicate an `[[item]]` block to add more slides.
 
 [[item]]
+  title = "Group Photo Sep 2024"
+  content = ""
+  align = "center"
+
+  #overlay_color = "#555"  # An HTML color value.
+  overlay_img = "group-photos/group photo 2024.jpg"  # Image path relative to your `static/img/` folder.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
+
+[[item]]
   title = "Retreat 2023"
   content = "Brewster River Campground, VT"
   align = "center"
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2023.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Bioelectronics 10-year Anniversary Reunion"
@@ -33,7 +42,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "group-photos/reunion-2022-crop.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Group Photo 2022"
@@ -44,7 +53,7 @@ interval = 5000
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "group-photos/Group photo 2022.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2021"
@@ -53,7 +62,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2021.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2019"
@@ -82,7 +91,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2018.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Group Photo 2017"
@@ -93,7 +102,7 @@ interval = 5000
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "group-photos/group-photo-2017.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2017"
@@ -102,7 +111,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2017.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2016"
@@ -111,7 +120,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2016.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2015"
@@ -120,7 +129,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2015.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
     title = "Retreat 2014"
@@ -129,7 +138,7 @@ interval = 5000
 
     #overlay_color = "#555"  # An HTML color value.
     overlay_img = "retreats/retreat-2014.jpg"  # Image path relative to your `static/img/` folder.
-    overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+    overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2013"
@@ -138,7 +147,7 @@ interval = 5000
 
   #overlay_color = "#555"  # An HTML color value.
   overlay_img = "retreats/retreat-2013.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 [[item]]
   title = "Retreat 2012"
@@ -149,6 +158,6 @@ interval = 5000
   #   Deactivate an option by commenting out the line, prefixing it with `#`.
   #overlay_color = "#666"  # An HTML color value.
   overlay_img = "retreats/retreat-2012.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.15  # Darken the image. Value in range 0-1.
 
 +++

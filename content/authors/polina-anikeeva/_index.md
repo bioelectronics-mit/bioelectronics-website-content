@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor in Materials Science and Engineering </br> Professor in Brain and Cognitive Sciences </br> Associate Director, Research Laboratory of Electronics
+role: Matoula S. Salapatas Professor and Head, Department of Materials Science and Engineering </br> Professor, Brain and Cognitive Sciences </br> Director, K. Lisa Yang Brain-Body Center </br> Associate Investigator, McGovern Institute for Brain Research </br> Associate Director, Research Laboratory of Electronics
 
 # Organizations/Affiliations
 organizations:

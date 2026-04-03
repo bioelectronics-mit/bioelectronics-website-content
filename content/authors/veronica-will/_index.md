@@ -33,8 +33,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Undergraduate Students
+- Alumni
 ---
 
-- Major: Biological Engineering
+- Major: Biological Engineering (Class of 2023)
 - Mentor: Anthony Tabet
