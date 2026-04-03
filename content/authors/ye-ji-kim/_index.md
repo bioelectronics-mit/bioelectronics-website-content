@@ -12,7 +12,7 @@ superuser: false
 weight_alphanumeric: Kim
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoctoral researcher in the Gradinaru group at Caltech
 
 # Organizations/Affiliations
 organizations:
