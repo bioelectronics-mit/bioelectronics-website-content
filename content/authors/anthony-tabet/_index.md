@@ -13,9 +13,9 @@ weight_alphanumeric: Tabet
 
 # Role/position
 role: 
+
 # Organizations/Affiliations
 organizations:
-- name: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -38,3 +38,5 @@ email: ""
 user_groups:
 - Alumni
 ---
+
+- Graduate Student: 2023

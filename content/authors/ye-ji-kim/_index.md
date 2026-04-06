@@ -12,43 +12,43 @@ superuser: false
 weight_alphanumeric: Kim
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoctoral researcher in the Gradinaru group at Caltech
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Materials Science and Engineering
+- name: []
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yogi
+bio: 
 
-interests:
-- Magnetic Nanostransducers
-- Neural modulation
+interests: []
+# - Magnetic Nanostransducers
+# - Neural modulation
 
-education:
-  courses:
-  - course: Ph.D in Materials Science and Engineering
-    institution: MIT
-    year: 2025
-  - course: M.S. in Materials Science and Engineering
-    institution: Korea Advanced Institute of Science and Technology
-    year: 2019
-  - course: B.S. in Materials Science and Engineering
-    institution: Korea Advanced Institute of Science and Technology
-    year: 2017
+education: []
+  # courses:
+  # - course: Ph.D in Materials Science and Engineering
+  #   institution: MIT
+  #   year: 2025
+  # - course: M.S. in Materials Science and Engineering
+  #   institution: Korea Advanced Institute of Science and Technology
+  #   year: 2019
+  # - course: B.S. in Materials Science and Engineering
+  #   institution: Korea Advanced Institute of Science and Technology
+  #   year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:yejik@mit.edu
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=qZJzpPYAAAAJ&hl=en
+social: []
+# - icon: envelope
+#   icon_pack: fas
+#   link: mailto:yejik@mit.edu
+# - icon: google-scholar
+#   icon_pack: ai
+#   link: https://scholar.google.com/citations?user=qZJzpPYAAAAJ&hl=en
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
@@ -57,7 +57,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
+
+# Yeji completed her B.S. and M.S. in Materials Science and Engineering from Korea Advanced Institute of Science and Technology and joined the Bioelectronics group in November 2020. Her research focuses on developing magnetic nanotransducers (MNTs) for the modulation of deep brain areas or gut-brain axis. Yeji also develops methods for in-vitro and in-vivo demonstration of MNT-mediated neural modulations. In addition, she is interested in materials simulation of multiferroic properties of the MNTs and neuronal simulation to elucidate the mechanism of the MNT-mediated neural modulation. When she is not in lab, Yeji enjoys exploring nice restaurants, having tea time with beautiful desserts, and burning all the calories from them through exercise
+
 user_groups:
-- Postdoctoral Associates & Fellows
+- Alumni
 ---
-Yeji completed her B.S. and M.S. in Materials Science and Engineering from Korea Advanced Institute of Science and Technology and joined the Bioelectronics group in November 2020. Her research focuses on developing magnetic nanotransducers (MNTs) for the modulation of deep brain areas or gut-brain axis. Yeji also develops methods for in-vitro and in-vivo demonstration of MNT-mediated neural modulations. In addition, she is interested in materials simulation of multiferroic properties of the MNTs and neuronal simulation to elucidate the mechanism of the MNT-mediated neural modulation. When she is not in lab, Yeji enjoys exploring nice restaurants, having tea time with beautiful desserts, and burning all the calories from them through exercise
